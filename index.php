@@ -16,6 +16,10 @@
     <div class="content">
         <p class="big_text">we are working on <strong>making this site happen!</strong></p>
     </div>
+    <div class="clear"></div>
+    <ul class="contact">
+        <li><a href="mailto:office@code-dispatch.com">@ Contact</a></li>
+    </ul>
 </div>
 </body>
 </html>
